@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd Year Student – B.Tech in Artificial Intelligence & Data Science  
+- 🎓 4th Year Student – B.Tech in Artificial Intelligence & Data Science  
 - 💡 Passionate about building intelligent and scalable systems  
 - 🌱 Currently learning: `Microservices`, `AI Integration`, `Advanced DSA`  
 - 🛠️ Love working with: `Java`, `Spring Boot`, `React`, `Python`, `SQL`  
